@@ -1,0 +1,13 @@
+train: C:\Users\YooHoGeun\Desktop\RoboFLowFolder2\Face Detection.v21-yolov5s.yolov5pytorch\train\images
+val: C:\Users\YooHoGeun\Desktop\RoboFLowFolder2\Face Detection.v21-yolov5s.yolov5pytorch\valid\images
+test: C:\Users\YooHoGeun\Desktop\RoboFLowFolder2\Face Detection.v21-yolov5s.yolov5pytorch\test\images
+
+nc: 1
+names: ['face']
+
+roboflow:
+  workspace: mohamed-traore-2ekkp
+  project: face-detection-mik1i
+  version: 21
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mohamed-traore-2ekkp/face-detection-mik1i/dataset/21
