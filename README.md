@@ -32,5 +32,7 @@
 #   cameras may be necessary for a more three-dimensional assessment.
 
 # - Literature review
-#   평면을 비춰주는 웹캠과 yolov5
+#   1. Understanding methods for object recognition via webcam and having general knowledge
+#   of AI training data categorization are essential.
+#   2. A basic understanding of the field in which the technology will be applied is also necessary.
 
